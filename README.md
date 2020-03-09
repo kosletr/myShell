@@ -1,6 +1,6 @@
 # myShell
 
-![](https://github.com/kosletr/myShell/shell.jpg)
+![myShell](https://github.com/kosletr/myShell/blob/master/shell.png)
 
 This work was created for the scope of an assignment in a Operating Systems cource of the Aristotle University of Thessaloniki during the 2018-19 academic year. The main purpose of this project is to demonstrate the implementation of a linux shell created by me, Konstantinos Letros.
 
