@@ -1,6 +1,6 @@
 # myShell
 
-![](https://github.com/kosletr/.jpg)
+![](https://github.com/kosletr/myShell/shell.jpg)
 
 This work was created for the scope of an assignment in a Operating Systems cource of the Aristotle University of Thessaloniki during the 2018-19 academic year. The main purpose of this project is to demonstrate the implementation of a linux shell created by me, Konstantinos Letros.
 
@@ -35,7 +35,7 @@ To run the shell, just do the following
 - Redirections
   - example: echo first line > file.txt
   - example: echo second line >> file.txt
- example: echo < file.txt
+  - example: echo < file.txt
  
 - Combinations of the above
- example: echo first line > file.txt ; echo second line >> file.txt && cat file.txt | grep second
+  - example: echo first line > file.txt ; echo second line >> file.txt && cat file.txt | grep second
