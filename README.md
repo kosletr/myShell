@@ -2,7 +2,7 @@
 
 ## Description
 
-This work was created for the scope of an assignment in a Operating Systems cource of the Aristotle University of Thessaloniki during the 2018-19 academic year. The main purpose of this project is to demonstrate the implementation of a linux shell created by me, Konstantinos Letros.
+This work was created for the scope of an assignment in a Operating Systems cource of the Aristotle University of Thessaloniki during the 2018-19 academic year. The main purpose of this project is to demonstrate the implementation of a Linux shell in C created by me, Konstantinos Letros.
 
 <p align="center">
   <img src="https://github.com/kosletr/myShell/blob/master/shell.png">
